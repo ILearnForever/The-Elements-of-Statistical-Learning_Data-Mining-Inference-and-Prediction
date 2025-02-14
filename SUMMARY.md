@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Home](README.md)
+* [Second Edition](README.md)
